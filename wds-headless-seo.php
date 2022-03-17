@@ -1,15 +1,17 @@
 <?php
 /**
- * Plugin Name: WDS Headless (SEO)
- * Plugin URI: https://github.com/WebDevStudios/nextjs-wordpress-starter
- * Description: WDS Headless extension handling SEO functionality.
- * Author: WebDevStudios <contact@webdevstudios.com>
- * Author URI: https://webdevstudios.com
+ * Plugin Name: Cuttlesoft Headless (SEO)
+ * Plugin URI: https://github.com/cuttlesoft/wds-headless-seo
+ * Description: Headless extension handling SEO functionality.
+ * Author: Cuttlesoft <engineering@cuttlesoft.com>
+ * Author URI: https://cuttlesoft.com
  * Version: 1.0.0
  * Requires at least: 5.6
  * Requires PHP: 7.4
  * License: GPL-2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/cuttlesoft/wds-headless-seo
+ * Primary Branch: cuttle-main
  *
  * @package WDS_Headless_SEO
  */
